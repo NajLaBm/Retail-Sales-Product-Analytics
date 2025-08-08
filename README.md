@@ -22,4 +22,4 @@ Ce projet Power BI propose un tableau de bord interactif pour analyser les vente
 
 
 ## Contact  
-Pour toute question, contactez-moi à : [email@example.com]
+Pour toute question, contactez-moi à : najia.benmahmoud@esprit.tn
