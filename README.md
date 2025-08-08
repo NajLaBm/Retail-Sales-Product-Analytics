@@ -14,12 +14,5 @@ Ce projet Power BI propose un tableau de bord interactif pour analyser les vente
 - Power Query  
 - DAX
 
-## Fichiers  
-- `/data/` : données d'exemple  
-- `/reports/` : rapport Power BI (.pbix)  
-- `/docs/` : documentation
-
-
-
 ## Contact  
 Pour toute question, contactez-moi à : najia.benmahmoud@esprit.tn
